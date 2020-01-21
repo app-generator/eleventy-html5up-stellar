@@ -1,6 +1,6 @@
-﻿# [Eleventy Html5UP Stellar](https://eleventy-html5up-stellar.appseed.us)
+# [Eleventy Html5UP Stellar](https://appseed.us/static-site)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Stellar Design  
+[Static Site](https://appseed.us/static-site) prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Stellar Design  
 
 - Design: HTML5up Stellar
 - [11ty](https://www.11ty.io/)
@@ -47,4 +47,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Stellar](https://eleventy-html5up-stellar.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Stellar](https://appseed.us/static-site) - provided by **AppSeed**
