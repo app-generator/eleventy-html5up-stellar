@@ -14,7 +14,18 @@
 
 <br />
 
-![Eleventy Html5UP Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-stellar-intro.gif?raw=true)
+## Want more? Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
+| --- | --- | --- |
+| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+<br />
+<br />
+
+![Eleventy Html5UP Stellar - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-stellar-screen.png)
 
 <br />
 
